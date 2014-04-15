@@ -1,3 +1,6 @@
 [submodule "priv/static/reveal.js"]
 	path = priv/static/reveal.js
 	url = git://github.com/hakimel/reveal.js.git
+[submodule "slideshows"]
+	path = slideshows
+	url = git://github.com/CoBUG/SlideShows.git
